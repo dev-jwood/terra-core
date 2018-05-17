@@ -130,3 +130,4 @@ Cerner Corporation
 [@BenBoersma]: https://github.com/BenBoersma
 [@CoryMcDonald]: https://github.com/CoryMcDonald
 [@AnthonyRoss]: https://github.com/AnthonyRoss
+[@DineshSingh9]: https://github.com/DineshSingh9
