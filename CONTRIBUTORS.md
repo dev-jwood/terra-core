@@ -64,6 +64,7 @@ Cerner Corporation
 - Ben Boersma [@BenBoersma]
 - Cory McDonald [@corymcdonald]
 - Anthony Ross [@AnthonyRoss]
+- Dinesh Singh [@DineshSingh9]
 
 [@ryanthemanuel]: https://github.com/ryanthemanuel
 [@Matt-Butler]: https://github.com/Matt-Butler

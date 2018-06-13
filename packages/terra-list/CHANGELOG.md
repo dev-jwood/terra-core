@@ -3,12 +3,14 @@ Changelog
 
 Unreleased
 ----------
-* List takes Static List-Section API as children.
-
-### Changed
+### Added
+* New Sections API which can be used as children for List.
 * Added new Prop "hasSections" to MultiSelectList and SingleSelectList
 * Added new Utils to handle selection across Sections for MultiSelectList and SingleSelectList
+
+### Changed
 * Updated logic to render SelectableList differently if it has sections as children.
+* Updated logic of helper functions to find selected indexes and initial indexes if list contains sections as children.
 
 2.14.0 - (June 12, 2018)
 ------------------
